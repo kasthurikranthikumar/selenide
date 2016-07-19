@@ -1,0 +1,12 @@
+package org.selenide.automation;
+
+import org.testng.TestNG.Test;
+
+
+public class Test {
+	
+@Test
+public void FirstMethod(){
+	
+}
+}

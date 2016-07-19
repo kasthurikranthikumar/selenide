@@ -1,0 +1,5 @@
+package org.selenide.automation.pom.tests.classic;
+
+public class GoogleTest {
+
+}

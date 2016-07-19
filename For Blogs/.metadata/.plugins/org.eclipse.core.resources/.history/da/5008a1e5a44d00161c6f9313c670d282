@@ -1,0 +1,9 @@
+package org.selenide.automation;
+
+import org.testng.annotations.Test;
+
+public class TestSelenide {
+  @Test
+  public void f() {
+  }
+}

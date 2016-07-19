@@ -1,0 +1,11 @@
+package org.selenide.automation;
+
+
+
+public class Test {
+	
+@Test
+public void FirstMethod(){
+	
+}
+}

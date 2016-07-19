@@ -1,0 +1,11 @@
+package org.selenide.automation;
+
+import com.google.common.annotations.VisibleForTesting;
+
+public class Test {
+	
+@Test
+public void FirstMethod(){
+	
+}
+}

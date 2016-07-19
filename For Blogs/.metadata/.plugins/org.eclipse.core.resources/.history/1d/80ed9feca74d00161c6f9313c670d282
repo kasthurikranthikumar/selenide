@@ -1,0 +1,5 @@
+package org.selenide.automation.pom.page.classic;
+
+public class SearchResultsPage {
+
+}

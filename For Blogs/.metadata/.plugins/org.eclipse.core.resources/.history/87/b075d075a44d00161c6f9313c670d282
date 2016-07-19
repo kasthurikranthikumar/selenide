@@ -1,0 +1,5 @@
+package org.selenide.automation;
+
+public class Test {
+
+}
